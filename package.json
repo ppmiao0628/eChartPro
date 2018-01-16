@@ -1,0 +1,22 @@
+{
+  "name": "echartspro",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ppmiao0628/eChartPro.git"
+  },
+  "author": "mpp",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ppmiao0628/eChartPro/issues"
+  },
+  "homepage": "https://github.com/ppmiao0628/eChartPro#readme",
+  "dependencies": {
+    "echarts": "^3.8.5"
+  }
+}
